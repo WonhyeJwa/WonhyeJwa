@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 ### :bulb: Program Solving(Since March 10th, 2024)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=WonhyeJwa)](https://solved.ac/WonhyeJwa)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jade940424)](https://solved.ac/jade940424)
 <br>
 <br>
 <br>
