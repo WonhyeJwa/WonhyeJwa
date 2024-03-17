@@ -1,8 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Wonhye's%20Github&fontSize=60&stroke=000000" />
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
-
 ### :sparkles: Skill Stack
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -12,7 +10,9 @@
 ### :dizzy: Studying
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)<br>
-
+<br>
+![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
+<br>
 <!--
 **WonhyeJwa/WonhyeJwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
