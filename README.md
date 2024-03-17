@@ -1,3 +1,6 @@
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Wonhye's%20Github&fontSize=60&stroke=000000" />
+
 ### Hi there 👋
 
 <!--
