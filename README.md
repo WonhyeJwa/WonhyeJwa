@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### :bulb: Program Solving(Since March 10th, 2024)
+### :bulb: Problem Solving(Since March 10th, 2024)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jade940424)](https://solved.ac/jade940424)
 <br>
